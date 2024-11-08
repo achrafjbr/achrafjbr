@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Achraf El jabbe</h1>
+<h1 align="center">Hi 👋, I'm Achraf El jabbar</h1>
 <h3 align="center">A passionate Flutter developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achrafjbr&label=Profile%20views&color=0e75b6&style=flat" alt="achrafjbr" /> </p>
